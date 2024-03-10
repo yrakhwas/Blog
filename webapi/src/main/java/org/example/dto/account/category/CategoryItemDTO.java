@@ -1,4 +1,4 @@
-package org.example.dto.category;
+package org.example.dto.account.category;
 
 import lombok.Data;
 

@@ -1,9 +1,9 @@
 package org.example.controllers;
 
 import lombok.AllArgsConstructor;
-import org.example.dto.category.CategoryCreateDTO;
-import org.example.dto.category.CategoryEditDTO;
-import org.example.dto.category.CategoryItemDTO;
+import org.example.dto.account.category.CategoryCreateDTO;
+import org.example.dto.account.category.CategoryEditDTO;
+import org.example.dto.account.category.CategoryItemDTO;
 import org.example.entities.CategoryEntity;
 import org.example.mapper.CategoryMapper;
 import org.example.repositories.CategoryRepository;
